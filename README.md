@@ -1,6 +1,6 @@
-**On oracle-type local recovery guarantees in compressed sensing**
+# On oracle-type local recovery guarantees in compressed sensing
 
-**Overview**
+## Overview
 
 This repository complements the paper 
 
@@ -10,7 +10,7 @@ by Ben Adcock, Claire Boyer, and Simone Brugiapaglia
 
 A preprint of the paper can be found at [https://arxiv.org/abs/1806.03789](https://arxiv.org/abs/1806.03789).
 
-**Content**
+## Content
 
 To generate all plots, run the script main_script.m 
 
@@ -22,14 +22,14 @@ This is the role of each individual script:
 - function_approximation_test_1.m generates the plots in Figure 8 and the data in Table 1.
 
 
-**Dependencies**
+## Dependencies
 
 To run this script, you need to add to your Matlab path:
 
-1. Numerical tour of Gabriel Peyré [https://www.numerical-tours.com/matlab/](https://www.numerical-tours.com/matlab/)
+1. Numerical tour of Gabriel PeyrÃ© [https://www.numerical-tours.com/matlab/](https://www.numerical-tours.com/matlab/)
 2. export_fig [https://github.com/altmany/export_fig](https://github.com/altmany/export_fig)
 3. SPGL1 [https://github.com/mpf/spgl1](https://github.com/mpf/spgl1)
 
-**Dosclaimer** 
+## Disclaimer
 
 The following experiments involve randomization. Hence, the plots obtained by running this script might slightly differ from those in the paper.
