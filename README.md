@@ -1,7 +1,5 @@
 # On oracle-type local recovery guarantees in compressed sensing
 
-## Overview
-
 This repository complements the paper 
 
 *On oracle-type local recovery guarantees in compressed sensing*. Information and Inference: A Journal of the IMA (Accepted, 2020) by Ben Adcock, Claire Boyer, and Simone Brugiapaglia
